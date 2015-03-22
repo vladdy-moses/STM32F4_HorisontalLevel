@@ -24,5 +24,10 @@
 *.bin
 *.map
 
+# Other VS files
+*.suo
+
 # Folders
 Debug/
+bin/
+obj/
